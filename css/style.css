@@ -1,0 +1,291 @@
+html, body {
+  min-height: 100vh;
+}
+
+.map-container {
+  position: relative;
+}
+
+.background {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.nav-item {
+  position: absolute;
+  cursor: pointer;
+  transition: all .5s ease;
+}
+
+.nav-item:hover {
+  transform: scale(1.3);
+}
+
+.nav-item img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.nav-item-boreout {
+  width: 6.3%;
+  top: 21%;
+  left: 5.3%;
+}
+
+.nav-item-stability {
+  left: 1.5%;
+  width: 5.3%;
+  top: 33.2%;
+}
+.nav-item-hieararchy {
+  left: 16.8%;
+  top: 21.3%;
+  width: 4.2%;
+}
+
+.nav-item-process-orientation {
+  left: 10.05%;
+  top: 32.14%;
+  width: 7.9%;
+}
+
+.nav-item-process-burnout {
+  left: 21.3%;
+  top: 32.9%;
+  width: 4.5%;
+}
+
+.nav-item-social-media {
+  left: 2.1%;
+  top: 45.8%;
+  width: 8.3%;
+}
+
+.nav-item-big-data {
+  left: 17.1%;
+  top: 43.2%;
+  width: 5.14%;
+}
+
+.nav-item-work-life-balance {
+  left: 6.6%;
+  top: 59.7%;
+  width: 6.7%;
+}
+
+.nav-item.nav-item-nav-e-car {
+  left: 4.1%;
+  top: 80.2%;
+  width: 13.5%;
+}
+
+.nav-item-slow-moving-firms {
+  left: 22.8%;
+  top: 70%;
+  width: 17.3%;
+}
+
+.nav-item-self-driving {
+  left: 49.1%;
+  top: 71%;
+  width: 7.9%;
+}
+
+.nav-item-patch-work-careers {
+  left: 47.2%;
+  top: 58.4%;
+  width: 6.5%;
+}
+
+.nav-item-smart-data {
+  left: 45.5%;
+  top: 43.7%;
+  width: 7.4%;
+}
+
+.nav-item-future-innovation-lab {
+  left: 67.2%;
+  top: 48.7%;
+  width: 9.7%;
+}
+.nav-item-building {
+  left: 78%;
+  top: 47.2%;
+  width: 6%;
+}
+
+.nav-item-dynamism {
+  left: 70.3%;
+  top: 33.9%;
+  width: 11%;
+}
+
+.nav-item-flying-cars {
+  left: 34.5%;
+  top: 38.5%;
+  width: 8.4%;
+}
+
+.nav-item-fast-moving {
+  left: 31.4%;
+  top: 31.2%;
+  width: 7.6%;
+}
+
+.nav-item-start-ups {
+  left: 38.5%;
+  top: 31.6%;
+  width: 5.5%;
+}
+
+.nav-item-horizon-of-hope {
+  left: 37.8%;
+  top: 24.2%;
+  width: 6.8%;
+}
+
+.nav-item-robovoversity {
+  left: 49.5%;
+  top: 27.1%;
+  width: 6.2%;
+}
+
+.nav-item-desk-sharing {
+  left: 52.9%;
+  top: 19.7%;
+  width: 6.9%;
+}
+
+.nav-item-avatar {
+  left: 57%;
+  top: 26.6%;
+  width: 5.8%;
+}
+
+.nav-item-smart-table {
+  left: 55.6%;
+  top: 33.9%;
+  width: 6.6%;
+}
+
+.nav-item-agile-working {
+  left: 60.1%;
+  top: 20.1%;
+  width: 7%;
+}
+
+.nav-item-self-leadership {
+  left: 63.4%;
+  top: 24.1%;
+  width: 7.6%;
+}
+
+.nav-item-augmented-reality {
+  left: 63%;
+  top: 35.2%;
+  width: 6.6%;
+}
+
+.nav-item-experimentation {
+  left: 79.6%;
+  top: 20.9%;
+  width: 3.1%;
+}
+
+.nav-item-serious-games {
+  left: 82.3%;
+  top: 14%;
+  width: 7.1%;
+}
+
+.nav-item-prototyping {
+  left: 83%;
+  top: 18.2%;
+  width: 7.7%;
+}
+
+.nav-item-work-me-time {
+  left: 82.8%;
+  top: 28.5%;
+  width: 7.9%;
+}
+
+.nav-item-gamification {
+  left: 84.5%;
+  top: 31.6%;
+  width: 8.8%;
+}
+
+.nav-item-creativity {
+  left: 90%;
+  top: 13.6%;
+  width: 7.3%;
+}
+
+.nav-item-3-D-printing {
+  left: 91.3%;
+  top: 23%;
+  width: 6.2%;
+}
+
+.nav-item-intelligent-clothes {
+  left: 59.8%;
+  top: 74.3%;
+  width: 5.8%;
+}
+
+.nav-item-e-lancer {
+  left: 62.4%;
+  top: 64.5%;
+  width: 9.2%;
+}
+
+.nav-item-decentralized-learning {
+  left: 65%;
+  top: 72.3%;
+  width: 4.9%;
+}
+
+.nav-item-smart-home {
+  left: 66.7%;
+  top: 81.9%;
+  width: 5.4%;
+}
+
+.nav-item-diy {
+  left: 72.5%;
+  top: 66.2%;
+  width: 6.5%;
+}
+
+.nav-item-me-time {
+  left: 71.4%;
+  top: 71.7%;
+  width: 5.2%;
+}
+
+.nav-item-quantified-self {
+  left: 74.1%;
+  top: 82.1%;
+  width: 3.8%;
+}
+
+.nav-item-indoor-farming {
+  left: 78.4%;
+  top: 70.7%;
+  width: 2.9%;
+}
+
+.nav-item-future-work {
+  left: 31%;
+  top: 45.3%;
+  width: 3.8%;
+}
+
+.nav-item-disc {
+  left: 47.6%;
+  top: 7.4%;
+  width: 11.1%;
+}
